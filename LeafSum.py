@@ -1,4 +1,5 @@
 from BinaryTree import *
+
 '''
 Returns the sum of all Binary Tree leaves
 '''
