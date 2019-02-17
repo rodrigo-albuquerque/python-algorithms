@@ -1,3 +1,5 @@
+from BinaryTree import *
+
 def inorderSuccessor(root, p):
 	"""
   returns smallest larger value to p
